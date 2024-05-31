@@ -1,5 +1,6 @@
 # motor4wheel
- a little servo motor contraption to start turning a wheel
+ A little motor contraption to start turning a wheel.
+ !(https://github.com/Sussex-Neuroscience/motor4wheel/blob/main/Motor4wheel.PNG)
 
  some clutch designs:
  https://www.thingiverse.com/thing:3007265
