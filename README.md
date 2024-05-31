@@ -1,7 +1,17 @@
 # motor4wheel
  
 
- ![A little motor contraption to start turning a wheel.](https://github.com/Sussex-Neuroscience/motor4wheel/blob/main/Motor4wheel.PNG)
+ ![](https://github.com/Sussex-Neuroscience/motor4wheel/blob/main/Motor4wheel.PNG)
+
+ A little motor contraption to start turning a wheel.
+
+ Changes done on the wheel are in the T# folder:
+
+ The wheel is rotated by Nema-17 stepper motor. 
+ Its driven by a4988 stepper motor driver.
+ The control progam is written in C++.
+ Stepper motor bracket and drive wheel design updated.
+
 
  some clutch designs:
  https://www.thingiverse.com/thing:3007265
